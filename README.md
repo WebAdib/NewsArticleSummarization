@@ -48,7 +48,7 @@ We are doing this project in our CSE475 course. For now we will use this readme 
 
 ### task 5. We have done this task using iPython Notebook (collab)
 
-### task 6. Dataset Summary:
+### task 6. Datasets Insite (text -> Defination):
    - For an average length of 70 words of text, the dataset has a summary of 10 words. The ratio is 7:1.
 
 
