@@ -1,5 +1,5 @@
 # NewsArticleSummarization
-We are doing this project in our CSE475 course. For now we will use this readme file to list down our progress. Afetr finishing the whole project we will rearrange it in proper way.
+We are doing this project in our CSE475 course. For now we will use this readme file to track down our progress. After finishing the whole project we will rearrange it in proper way.
 
 <h1>Lab01</h1>
 <p>We learn about the workflow of the projects and what we will do in which lab</p>
@@ -8,8 +8,8 @@ We are doing this project in our CSE475 course. For now we will use this readme 
 <p>We Proposed our projects and related information</p>
 <hr>
 <h1>Lab03</h1>
-<p>We have find datasets and related information</p>
-# Dataset Information
+<p>We have find datasets and related information. We have also completed all the tasks</p>
+
 
 ### task 1. Dataset collection:
    - NEWS SUMMARY (kaggle.com)[https://www.kaggle.com/datasets/sunnysai12345/news-summary]
