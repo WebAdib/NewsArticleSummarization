@@ -11,18 +11,18 @@ We are doing this project in our CSE475 course. For now we will use this readme 
 <p>We have find datasets and related information</p>
 # Dataset Information
 
-### 1. Dataset Collected:
-   - NEWS SUMMARY (kaggle.com)
+### task 1. Dataset collection:
+   - NEWS SUMMARY (kaggle.com)[https://www.kaggle.com/datasets/sunnysai12345/news-summary]
 
-## 2. Ipython Notebook:
+### task 2. Use Ipython Notebook:
    - Available (done)
 
-## 3. Dataset Brief Description:   
+### task 3. Dataset Brief Description:   
    - The first dataset consists of 4515 examples and contains the Author's name, Headlines, URL of the Article, Short text, and Complete Article. The summarized news in shorts was gathered, scraping news articles from the Hindu, Indian Times, and Guardian, spanning from February to August 2017.
    - The second dataset consists of 98402 rows with 2 columns labeled as headlines and text.
    - To increase the intake of possible text values to build a reliable model for text summarization on news articles, these datasets were merged before preprocessing and cleaning. The merged dataset contains 102915 rows and 2 columns labeled as text and summary, while the text column has some null values.
 
-## 4. Data Dictionary: 
+### task 4. Data Dictionary: 
    - Raw Datasets:
      - **Dataset 1: news_summary.csv**
        | Column Name | Data Type | Description             |
@@ -46,9 +46,9 @@ We are doing this project in our CSE475 course. For now we will use this readme 
      | text        | String    | Contains the long text or description of the article. Used to train the model. |
      | summary     | String    | Contains the summary of the particular article. The model will predict this part.  |
 
-## 5. In iPython Notebook
+### task 5. We have done this task using iPython Notebook (collab)
 
-## 6. Dataset Summary:
+### task 6. Dataset Summary:
    - For an average length of 70 words of text, the dataset has a summary of 10 words. The ratio is 7:1.
 
 
