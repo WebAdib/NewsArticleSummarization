@@ -11,7 +11,7 @@ We are doing this project in our CSE475 course. For now we will use this readme 
 <p>We have find datasets and related information</p>
 # Dataset Information
 
-## 1. Dataset Collected:
+### 1. Dataset Collected:
    - NEWS SUMMARY (kaggle.com)
 
 ## 2. Ipython Notebook:
